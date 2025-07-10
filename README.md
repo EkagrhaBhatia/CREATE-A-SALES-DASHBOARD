@@ -74,7 +74,5 @@ This dashboard enables stakeholders, analysts, and managers to make data-driven 
 
 The modular design ensures that this solution can be scaled further by integrating additional data sources, enabling scheduled refreshes, and deploying to Power BI Service for real-time insights and collaboration.
 
-
-
-
-
+OUTPUT
+<img width="1364" height="718" alt="Image" src="https://github.com/user-attachments/assets/85c6e4c2-218b-4888-aec8-b3a1c72f21d0" />
